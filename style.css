@@ -1,0 +1,54 @@
+
+/* First section */
+#profile{
+    width: 100%;
+    height: 450px;
+    background-color:#c7aeb8 ;
+}
+
+#image{
+    margin-top: 1%;
+    float: left;
+    width: 50%;
+}
+#text{
+    margin-right: 5%;
+}
+
+#About{
+    margin-top: 1%;
+}
+
+#intro{
+    width: 80%;
+    height: 250px;
+    margin-left: 15%;
+}
+
+#sociallinks{
+    margin-top: 8%;
+    margin-left: 5%;
+}
+
+hr{
+    width: 100%;
+    border: 2px solid blue
+}
+
+#secondsection{
+    text-align: center;
+    margin-top: 3%;
+}
+
+#skills{
+    margin-left: 15%;
+}
+
+#thirdsection{
+    text-align: center;
+}
+
+#copyright{
+    text-align: center;
+    font-size: larger;
+}
