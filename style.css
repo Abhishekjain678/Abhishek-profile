@@ -1,9 +1,10 @@
 
 /* First section */
 #profile{
-    width: 100%;
+    width: 90%;
     height: 450px;
     background-color:#c7aeb8 ;
+    margin-left: 5%;
 }
 
 #image{
